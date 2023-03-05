@@ -28,5 +28,6 @@
 
 [LTE-M, LoRa, NB-IoT 전력소모 비교](https://www.cnx-software.com/2018/03/29/a-look-at-lorawan-and-nb-iot-power-consumption/)
 
+[(동영상) 왜 모든 맨홀 뚜껑은 원형일까? / YTN 사이언스](https://youtu.be/X_t2HP-UN6c)
 
 

@@ -38,6 +38,8 @@
 
 [(동영상) 왜 모든 맨홀 뚜껑은 원형일까? / YTN 사이언스](https://youtu.be/X_t2HP-UN6c)
 
+[Smart manhole cover concept detects gas levels and provides reserve power](https://www.ubergizmo.com/2012/03/smart-manhole-cover-concept-detects-gas-levels-and-provides-reserve-power/)
+
 ## ChatGPT 정보
 
 스마트 맨홀 한국 제품은?

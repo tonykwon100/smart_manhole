@@ -6,6 +6,7 @@
 
 [ENICT - 스마트맨홀](http://www.enict.co.kr/kor/sub04/smart_manhole.html)
 
+["IoT맨홀관제솔루션(MMCS)" - Pantech C&I Engineering IoT](https://youtu.be/nvjAWYwHFyA)
 
 ## 관련뉴스
 
@@ -15,5 +16,5 @@
 
 [LTE-M, LoRa, NB-IoT 전력소모 비교](https://www.cnx-software.com/2018/03/29/a-look-at-lorawan-and-nb-iot-power-consumption/)
 
-["IoT맨홀관제솔루션(MMCS)" - Pantech C&I Engineering IoT](https://youtu.be/nvjAWYwHFyA)
+
 

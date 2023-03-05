@@ -37,6 +37,12 @@
 
 [(동영상) [핫클립] 각종 재해를 예방해주는 스마트 맨홀 / YTN 사이언스, 2022.10.20](https://youtu.be/bw0clOyPNvQ)
 
+[맨홀 뚜껑, 철강 말고 플라스틱으로 바꿧다 대구광역시 불합리한 구제 개선 사례, 2021.10.12](https://www.thevoiceofus.co.kr/mobile/article.html?no=9556)
+
+[열린 뚜껑, 넘친 맨홀 미리 알고 대비할 수 없나?! ‘사물인터넷 맨홀 뚜껑’, 2021.8.27](https://blog.naver.com/ppspr/222485545316)
+
+[서울 용산구, 맨홀뚜껑 센서로 하수도 모니터링, 2021.6.9](https://www.hankyung.com/politics/article/202106090591Y)
+
 [Vodafone lifts lid on mobile infrastructure of tomorrow, 2018.10.12](https://www.smartcitiesworld.net/news/news/vodafone-lifts-lid-on-mobile-infrastructure-of-tomorrow-3655)
 
 ## 기타정보

@@ -33,6 +33,8 @@
 
 ["맨홀 덮개, 지하공간 상시 관제설비로 변신(정보통신신문, 2023.02.12)"](https://www.koit.co.kr/news/articleView.html?idxno=109440)
 
+[청호정밀, 맨홀 등 지하시설물 스마트 모니터링 시스템 개발](https://www.hankyung.com/society/article/2022092809881)
+
 [(동영상) [기술자들] 손쉽게 맨홀 뚜껑 개폐가 가능하다? | 맨홀 관리 시스템! 스마트 맨홀 / YTN 사이언스, 2022. 9. 20](https://youtu.be/68m3Q8P5sZg)
 
 [(동영상) [핫클립] 맨홀 뚜껑에 전자 장치를? / YTN 사이언스, 2022.10.18](https://youtu.be/9NeGeho0928)

@@ -18,6 +18,8 @@
 
 ["맨홀 덮개, 지하공간 상시 관제설비로 변신(정보통신신문, 2023.02.12)"](https://www.koit.co.kr/news/articleView.html?idxno=109440)
 
+[(동영상) [기술자들] 손쉽게 맨홀 뚜껑 개폐가 가능하다? | 맨홀 관리 시스템! 스마트 맨홀 / YTN 사이언스, 2022. 9. 20](https://youtu.be/68m3Q8P5sZg)
+
 ## 기타정보
 
 [LTE-M, LoRa, NB-IoT 전력소모 비교](https://www.cnx-software.com/2018/03/29/a-look-at-lorawan-and-nb-iot-power-consumption/)

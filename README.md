@@ -2,7 +2,9 @@
 
 ## 과제정보(2023년도 디지털 안전 선도모델 개발)
 
-[과제공고](https://www.msit.go.kr/bbs/view.do;jsessionid=99OI4AK_FHT77ft2TfkVJzEZqh4h6y_HjqDiSZc-.AP_msit_2?sCode=user&mPid=218&mId=122&bbsSeqNo=96&nttSeqNo=3179749)
+[과제 공고 사이트](https://www.msit.go.kr/bbs/view.do;jsessionid=99OI4AK_FHT77ft2TfkVJzEZqh4h6y_HjqDiSZc-.AP_msit_2?sCode=user&mPid=218&mId=122&bbsSeqNo=96&nttSeqNo=3179749)
+
+[공고 미리보기](https://doc.msit.go.kr/SynapDocViewServer/viewer/doc.html?key=71294e3e581848e58b921335124d5010&convType=html&convLocale=ko_KR&contextPath=/SynapDocViewServer/)
 
 ## 경쟁제품
 

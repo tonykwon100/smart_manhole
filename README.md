@@ -9,7 +9,7 @@
 
 ## 관련뉴스
 
-["맨홀 덮개, 지하공간 상시 관제설비로 변신"](https://www.koit.co.kr/news/articleView.html?idxno=109440)
+["맨홀 덮개, 지하공간 상시 관제설비로 변신(정보통신신문, 2023.02.12)"](https://www.koit.co.kr/news/articleView.html?idxno=109440)
 
 ## 기타정보
 

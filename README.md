@@ -37,6 +37,8 @@
 
 [(동영상) [핫클립] 각종 재해를 예방해주는 스마트 맨홀 / YTN 사이언스, 2022.10.20](https://youtu.be/bw0clOyPNvQ)
 
+[Vodafone lifts lid on mobile infrastructure of tomorrow, 2018.10.12](https://www.smartcitiesworld.net/news/news/vodafone-lifts-lid-on-mobile-infrastructure-of-tomorrow-3655)
+
 ## 기타정보
 
 [LTE-M, LoRa, NB-IoT 전력소모 비교](https://www.cnx-software.com/2018/03/29/a-look-at-lorawan-and-nb-iot-power-consumption/)

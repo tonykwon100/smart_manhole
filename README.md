@@ -16,6 +16,8 @@
 
 [(동영상) IoT맨홀관제솔루션(MMCS) - Pantech C&I Engineering IoT](https://youtu.be/nvjAWYwHFyA)
 
+[(동영상) 레오테크코리아 스마트안전맨홀시스템 - 3D 영상 시뮬레이션](https://youtu.be/y7JkyFBZ03s)
+
 ## 관련뉴스
 
 ["맨홀 덮개, 지하공간 상시 관제설비로 변신(정보통신신문, 2023.02.12)"](https://www.koit.co.kr/news/articleView.html?idxno=109440)

@@ -6,7 +6,7 @@
 
 [ENICT - 스마트맨홀](http://www.enict.co.kr/kor/sub04/smart_manhole.html)
 
-["IoT맨홀관제솔루션(MMCS)" - Pantech C&I Engineering IoT](https://youtu.be/nvjAWYwHFyA)
+[IoT맨홀관제솔루션(MMCS) - Pantech C&I Engineering IoT](https://youtu.be/nvjAWYwHFyA)
 
 ## 관련뉴스
 

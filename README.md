@@ -18,6 +18,8 @@
 
 [(동영상) 레오테크코리아 스마트안전맨홀시스템 - 3D 영상 시뮬레이션](https://youtu.be/y7JkyFBZ03s)
 
+[스마트 IoT 맨홀관제 시스템 / 네이블](http://www.nablecomm.com/solution_manhole.php?tab1=2&tab2=1)
+
 [Smart Manhole Cover Lock System / Rayonics / China](https://rayonicstech.com/product/smart-manhole-cover-lock-system/)
 
 [SMARTCOVER SYSTEMS MONITORING & ALARM SYSTEM | TENCARVA MACHINERY COMPANY](https://tencarva.com/smartcover-monitoring-alarm-system/)

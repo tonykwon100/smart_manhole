@@ -22,6 +22,9 @@
 
 [SMANCO (SMART MANHOLE COVER)](https://www.x-logic.net/smanco.php)
 
+## 맨홀센서 제품
+[LW007-MC / MOKO SMART / LoRa / Tilt Sensing](https://www.mokosmart.com/lorawan-manhole-cover-monitoring-lw007-mc/)
+
 ## 관련뉴스
 
 ["맨홀 덮개, 지하공간 상시 관제설비로 변신(정보통신신문, 2023.02.12)"](https://www.koit.co.kr/news/articleView.html?idxno=109440)

@@ -15,3 +15,5 @@
 
 [LTE-M, LoRa, NB-IoT 전력소모 비교](https://www.cnx-software.com/2018/03/29/a-look-at-lorawan-and-nb-iot-power-consumption/)
 
+["IoT맨홀관제솔루션(MMCS)" - Pantech C&I Engineering IoT](https://youtu.be/nvjAWYwHFyA)
+

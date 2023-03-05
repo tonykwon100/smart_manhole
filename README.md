@@ -43,6 +43,8 @@
 
 [IoT 실시간 감시…'맨홀 중대재해' 구멍 막는다, 2022.3.13](https://www.etnews.com/20220311000109)
 
+[스마트폰 정신팔린 엄마…아기 안고 맨홀 추락[영상]](https://www.seoul.co.kr/news/newsView.php?id=20211021500179)
+
 [맨홀 뚜껑, 철강 말고 플라스틱으로 바꿧다 대구광역시 불합리한 구제 개선 사례, 2021.10.12](https://www.thevoiceofus.co.kr/mobile/article.html?no=9556)
 
 [열린 뚜껑, 넘친 맨홀 미리 알고 대비할 수 없나?! ‘사물인터넷 맨홀 뚜껑’, 2021.8.27](https://blog.naver.com/ppspr/222485545316)

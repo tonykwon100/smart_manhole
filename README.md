@@ -6,6 +6,8 @@
 
 [공고 미리보기](https://doc.msit.go.kr/SynapDocViewServer/viewer/doc.html?key=71294e3e581848e58b921335124d5010&convType=html&convLocale=ko_KR&contextPath=/SynapDocViewServer/)
 
+[공모 안내서 미리보기](https://doc.msit.go.kr/SynapDocViewServer/viewer/doc.html?key=b8df99648f5c49e185673e9dbeaf1636&convType=html&convLocale=ko_KR&contextPath=/SynapDocViewServer/)
+
 ## 경쟁제품
 
 [SDT Smart Manhole](https://www.sdt.inc/pdf/SDT_Smart%20Manhole_Brochure_KOR_2023%EB%85%84.pdf)

@@ -1,5 +1,9 @@
 # Smart Manhole
 
+## 과제정보(2023년도 디지털 안전 선도모델 개발)
+
+[과제공고](https://www.msit.go.kr/bbs/view.do;jsessionid=99OI4AK_FHT77ft2TfkVJzEZqh4h6y_HjqDiSZc-.AP_msit_2?sCode=user&mPid=218&mId=122&bbsSeqNo=96&nttSeqNo=3179749)
+
 ## 경쟁제품
 
 [SDT Smart Manhole](https://www.sdt.inc/pdf/SDT_Smart%20Manhole_Brochure_KOR_2023%EB%85%84.pdf)

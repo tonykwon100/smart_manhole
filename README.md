@@ -31,6 +31,15 @@
 ## 맨홀센서 제품
 [LW007-MC / MOKO SMART / LoRa / Tilt Sensing](https://www.mokosmart.com/lorawan-manhole-cover-monitoring-lw007-mc/)
 
+## 각종센서
+[황화수소](http://itempage3.auction.co.kr/DetailView.aspx?itemno=C924193513)
+[산소센서](http://itempage3.auction.co.kr/DetailView.aspx?itemno=C857085428)
+[CO2센서](http://itempage3.auction.co.kr/DetailView.aspx?itemno=C854247128)
+[CO 센서](http://itempage3.auction.co.kr/DetailView.aspx?itemno=C794725842)
+[VOC 센서](http://itempage3.auction.co.kr/DetailView.aspx?itemno=C931039634)
+[암모니아 센서](http://itempage3.auction.co.kr/DetailView.aspx?itemno=C931031508)
+[가연성 센서](http://itempage3.auction.co.kr/DetailView.aspx?itemno=C894394743)
+
 ## 관련뉴스
 
 ["맨홀 덮개, 지하공간 상시 관제설비로 변신(정보통신신문, 2023.02.12)"](https://www.koit.co.kr/news/articleView.html?idxno=109440)

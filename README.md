@@ -42,6 +42,8 @@
 
 ## 관련뉴스
 
+[SKT, 맨홀 내부 안전사고 IoT·AI로 예방](https://zdnet.co.kr/view/?no=20221130111626)
+
 ["맨홀 덮개, 지하공간 상시 관제설비로 변신(정보통신신문, 2023.02.12)"](https://www.koit.co.kr/news/articleView.html?idxno=109440)
 
 [청호정밀, 맨홀 등 지하시설물 스마트 모니터링 시스템 개발](https://www.hankyung.com/society/article/2022092809881)
